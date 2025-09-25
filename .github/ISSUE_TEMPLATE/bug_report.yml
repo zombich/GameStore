@@ -1,2 +1,13 @@
 name: "Отчет о дефектах"
 description: "Шаблон для создания отчета о дефектах"
+title: "[Ошибка]: "
+labels: ["bug"]
+body:
+type: textarea
+    id: идентификатор поля ввода
+    attributes:
+      label: подпись поля
+      description: описание
+      placeholder: подсказка
+    validations:
+      required: true #поле обязательно для заполнения
