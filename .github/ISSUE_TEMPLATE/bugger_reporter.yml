@@ -1,0 +1,13 @@
+name: "Дефектус отчетус"
+description: "описаниус"
+title: "[Ошибка]: "
+labels: ["bug"]
+body:
+    type: textarea
+    id: desc
+    attributes:
+        label: Описание
+        description: asddfg
+        placeholder: asd
+        validations:
+        required: true
