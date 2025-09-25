@@ -11,3 +11,11 @@ body:
       placeholder: введите описание дефекта
     validations:
       required: true 
+    type: textarea
+    id: desc
+    attributes:
+      label: Шаги воспроизведения
+      description: Как воспроизводится этот дефект
+      placeholder: введите шаги
+    validations:
+      required: true 
