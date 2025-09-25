@@ -6,8 +6,8 @@ body:
     type: textarea
     id: description
     attributes:
-      label: "Описание"
+      label: Описание
       description: описание
-      placeholder: подсказка
+      placeholder: сасиски
     validations:
       required: true #поле обязательно для заполнения
