@@ -4,10 +4,10 @@ title: "[Ошибка]: "
 labels: ["bug"]
 body:
     type: textarea
-    id: description
+    id: desc
     attributes:
       label: Описание
-      description: описание
-      placeholder: сасиски
+      description: Описание дефекта
+      placeholder: введите описание дефекта
     validations:
-      required: true #поле обязательно для заполнения
+      required: true 
