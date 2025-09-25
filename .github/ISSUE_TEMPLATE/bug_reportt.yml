@@ -10,9 +10,9 @@ body:
       description: Описание дефекта
       placeholder: введите описание дефекта
     validations:
-      required: true 
+      required: true
     type: textarea
-    id: desc
+    id: steps
     attributes:
       label: Шаги воспроизведения
       description: Как воспроизводится этот дефект
