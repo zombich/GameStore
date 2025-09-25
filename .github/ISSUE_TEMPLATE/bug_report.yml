@@ -4,9 +4,9 @@ title: "[Ошибка]: "
 labels: ["bug"]
 body:
 type: textarea
-    id: идентификатор поля ввода
+    id: description
     attributes:
-      label: подпись поля
+      label: "Описание"
       description: описание
       placeholder: подсказка
     validations:
