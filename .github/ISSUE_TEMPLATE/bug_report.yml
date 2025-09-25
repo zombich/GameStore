@@ -3,7 +3,7 @@ description: "Шаблон для создания отчета о дефект�
 title: "[Ошибка]: "
 labels: ["bug"]
 body:
-type: textarea
+    type: textarea
     id: description
     attributes:
       label: "Описание"
